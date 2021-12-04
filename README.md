@@ -3,7 +3,7 @@
 
 | Código | Description |
 | ------:| ----------- |
-| ***Asignatura*** | 2 | 
+| ***Asignatura*** | 4 | 
 | **TSR-2022-I** | Tarea *04* |
 | **Robotica-2022-I**  | Tarea *04* |
 | **IT102321-C002** | Sistema Ciber-Físico - Proyecto - Módulo |
